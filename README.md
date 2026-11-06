@@ -1,5 +1,8 @@
 # lexi-cli
 
+> This project is vibe-slop: it was written almost entirely by an AI coding agent.
+> Made for fun
+
 Letra sincronizada de tu reproductor MPRIS directamente en la terminal.
 
 `lexi.py` consulta el tema actual con `playerctl`, busca la letra en
